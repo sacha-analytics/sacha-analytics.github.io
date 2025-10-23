@@ -4,6 +4,13 @@ layout: page
 ---
 <H1 align="left"><span style="font-family:Times New Roman;font-size:150%;color:darkmagenta"><b>Services</b></span> </H1>
 
+<h2>Data processing</h2>
+<ul>
+	<li>Preprocessing, processing, and postprocessing of financial, biomedical, government, and environmental data</li>	
+	<li>Creation of databases in netCDF4, HDF5, GRIB2, TIFF, shape, XML, GeoJSON, Excel and CSV formats</li>
+	<li>Generate time series graphs, raster and vector maps.</li>
+</ul>
+
 <h2>Agriculture</h2>
 <ul class="Agriculture">
 	<li>Climatic studies of thermal suitability indices to identify areas and periods of time, where temperature conditions are optimal for crop development.</li>	
