@@ -1,6 +1,6 @@
 // URL del archivo CSV (cámbiala por la tuya)
  //------------------------------------------------------------------------
- const csvUrl = 'https://raw.githubusercontent.com/vrrp/vrrp.github.io/refs/heads/main/assets/data/sstoi.indices.csv'; // Reemplaza con una URL válida
+ const csvUrl = 'https://raw.githubusercontent.com/sacha-analytics/sacha-analytics.github.io/refs/heads/main/assets/data/sstoi.indices.csv'; // Reemplaza con una URL válida
  // Usar fetch para obtener el CSV
 Papa.parse(csvUrl, {
     download: true,
