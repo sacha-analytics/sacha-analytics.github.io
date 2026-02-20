@@ -66,7 +66,7 @@ Objetivos
         </div>
 	<!--div align="center" id="tabla_ensoONI"></div-->
 	<!--div align="center" id="plot_timeSeries_ensoIndex"></div-->
-	<p> Data taken from <a href="https://www.cpc.ncep.noaa.gov/data/indices/" style="color:darkmagenta"> Climate Prediction Center - NOAA</a>, and dynamic visualization development by <a href="https://vrrp.github.io/" style="color:darkmagenta">Sacha Analytics</a>.</p>
+	<p> Data taken from <a href="https://www.cpc.ncep.noaa.gov/data/indices/" style="color:darkmagenta"> Climate Prediction Center - NOAA</a>, and dynamic visualization development by <a href="https://sacha-analytics.github.io/" style="color:darkmagenta">Sacha Analytics</a>.</p>
 	
 </div>
 <!--script src="/static/js/script_mapaENSOv1.js"></script-->
@@ -77,7 +77,7 @@ Objetivos
 <h4 align="left">Public health monitoring: Anemia case study (We are working asap!).</h4>
 <!--script src="/static/js/script_tablaENSO.js"></script-->
 <!--script src="/static/js/plot_timeSeries_ensoIndex.js"></script-->
-<p style="text-align: left;">To visualized our products in <a href="https://vrrp.github.io/login/" style="color:darkmagenta">Monitoring</a>, email us to suscribe.</p>
+<p style="text-align: left;">To visualized our products in <a href="https://sacha-analytics.github.io/login/" style="color:darkmagenta">Monitoring</a>, email us to suscribe.</p>
 
 
 
